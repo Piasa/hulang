@@ -1,0 +1,17 @@
+简洁，去掉复杂的语法设计。只保留最基本的东西。
+方便调包
+函数式设计思路
+与c/c++完美兼容
+替代大部分python的作用
+
+动态类型还是静态类型
+dynamic
+强类型还是弱类型
+强类型
+
+1.语言语法设计
+2.ast生成
+3.ast to IR
+4.IR to machine code
+5.standard library
+6.thing like cargo
